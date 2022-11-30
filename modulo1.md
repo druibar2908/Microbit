@@ -9,3 +9,7 @@ Abre el editor MakeCode y crea un nuevo proyecto, haz click en entrada y añade 
 En esta actividad vamos a utilizar el sensor de temperatura para mostrar sus valores en la pantalla al presionar los botones A y B. 
 
 ![Modulo1Ejercicio2](/Modulo1Ejercicio2.png)
+
+## Ejercicio 3 
+
+Diseña tu propio programa para que la Micro:Bit muestre en la pantalla un icono si es agitado.
