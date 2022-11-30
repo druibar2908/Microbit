@@ -7,6 +7,9 @@
  El término STEAM surge de las siglas en inglés de:  Science, Technology, Engineering, Arts & Mathematics.
 Microbit es una placa programable, es decir, una placa con un procesador y otros componentesque la convierten en un apequeña computadora cuyo comportamniento podemos programar de forma sencilla.
 
+![Microbit](OIP.jfif)
+
+
 ## [1.- Módulo1: La placa Microbit y sus elementos](modulo1.md)
 
 ## [2.- Módulo2: Programación básica 1](modulo2.md)
