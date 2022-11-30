@@ -13,3 +13,5 @@ En esta actividad vamos a utilizar el sensor de temperatura para mostrar sus val
 ## Ejercicio 3 
 
 Diseña tu propio programa para que la Micro:Bit muestre en la pantalla un icono si es agitado.
+
+![Modulo1Ejercicio3](/Modulo1Ejercicio3.png)
