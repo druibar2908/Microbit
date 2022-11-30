@@ -9,6 +9,14 @@ Microbit es una placa programable, es decir, una placa con un procesador y otros
 
 ## [1.- Módulo1: La placa Microbit y sus elementos](modulo1.md)
 
+## [2.- Módulo1: La placa Microbit y sus elementos](modulo1.md)
+
+## [1.- Módulo1: La placa Microbit y sus elementos](modulo1.md)
+
+## [1.- Módulo1: La placa Microbit y sus elementos](modulo1.md)
+
+## [1.- Módulo1: La placa Microbit y sus elementos](modulo1.md)
+
 ### Referencias
 
 
