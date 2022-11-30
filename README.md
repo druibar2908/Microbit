@@ -17,8 +17,13 @@ Microbit es una placa programable, es decir, una placa con un procesador y otros
 
 ## [5.- Proyecto](proyecto.md)
 
-### Referencias
+### Autores
 
+- Manuel Moreno Neria
+- Hugo Lucena Gutiérrez
+- Daniel Ruiz Barrenas
+
+### Referencias
 
 ### Licencia
 
