@@ -2,7 +2,7 @@
 Para crea una variable y programar la placa Micro:bit para que, al presionar el botón B, la variable aumente y, al presionar el botón A, la variable disminuya.
 
 [Modulo3Ejercicio1](/microbit-Módulo-3-Ejercicio-1.hex)
-![Modulo3Ejercicio1](/Modulo2Ejercicio1.png)
+![Modulo3Ejercicio1](/Modulo3Ejercicio1.png)
 
 ## Ejercicio 1 Ampliación
 
