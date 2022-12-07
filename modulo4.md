@@ -7,5 +7,9 @@ En lugar de mostrar el número, este programa usa selección para mostrar puntos
 [DadoGráfico](/microbit-Dado-Gráfico.hex)
 ![DadoGráfico](/Dado.png)
 
+## Calculadora(Daniel)
 
+Mediante una serie de códigos hemos hecho una calculadora funcional capaz de multiplicar, dividir, sumar y restar.
 
+[Calculadora](/microbit-Calculadora.hex)
+![Calculadora](/calculadora.png)
