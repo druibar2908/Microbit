@@ -5,7 +5,7 @@ Como el proyecto de Dados, este proyecto usa el acelerómetro detectar cuándo e
 En lugar de mostrar el número, este programa usa selección para mostrar puntos en la pantalla que, igual que los dados de verdad, representan el número que ha sido generado.
 
 [DadoGráfico](/microbit-Dado-Gráfico.hex)
-![DadoGráfico](/dado.png)
+![DadoGráfico](/Dado.png)
 
 
 
