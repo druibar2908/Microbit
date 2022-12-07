@@ -17,3 +17,4 @@ una melodía al presionar el botón A.
 
 [Modulo2Ejercicio3](/microbit-Módulo-2-Ejercicio-3.hex)
 ![Modulo2Ejercicio3](/Modulo2Ejercicio3.png)
+![Modulo2Ejercicio3p2](/Modulo2Ejercicio3p2.png)
